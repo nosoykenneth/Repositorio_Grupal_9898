@@ -12,7 +12,7 @@ int main(){
 
     while (!pila.empty())
     {
-        cout<<pila.top()<<"";
+        cout<<pila.top()<<" ";
         pila.pop();
     }
 
