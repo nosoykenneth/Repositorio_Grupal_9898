@@ -9,7 +9,7 @@ public class PilasJava{
         pila.push(30);
 
         while (!pila.empty()) {
-            System.out.println(pila.peek() +" ");
+            System.out.println(pila.peek() + " ");
             pila.pop();
         }
     }

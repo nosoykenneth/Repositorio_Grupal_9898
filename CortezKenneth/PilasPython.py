@@ -5,5 +5,5 @@ pila.append(20)
 pila.append(30)
 
 while len(pila) > 0:
-    print(pila[-1], end=" ")
+    print(pila[-1], end = " ")
     pila.pop()
