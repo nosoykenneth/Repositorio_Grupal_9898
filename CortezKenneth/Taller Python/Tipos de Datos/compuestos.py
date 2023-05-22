@@ -97,6 +97,8 @@ print(rango)
 set = {2,3,4,5,6,6}
 print(set)
 print(type(set))
+
+#Diccionario
 cliente001 = {
     "Nombre" : "Diego",
     "Cedula" : 1721613998,
